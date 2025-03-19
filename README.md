@@ -36,7 +36,7 @@ Sou um entusiasta do universo e suas curiosidades, com uma forte paixão por doc
        align="left" 
        alt="GitHub Stats" 
        height="200" 
-       width="550"
+       width="400"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisantz&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
    />
  
