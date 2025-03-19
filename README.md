@@ -2,7 +2,7 @@
 
 **`Full-stack Developer`**
 
-Sou um entusiasta do universo e suas curiosidades, com uma forte paixão por documentários, filmes de ficção científica e literatura filosófica. Acredito que essa combinação de interesses enriquece minha perspectiva sobre o mundo e impulsiona meu raciocínio e criatividade no âmbito profissional e tecnologico. Sinta-se à vontade para explorar meus projetos. 🚀✨
+Sou um entusiasta do universo e suas curiosidades, com uma forte paixão por documentários, filmes de ficção científica e literatura filosófica. Acredito que essa combinação de interesses enriquece minha perspectiva sobre o mundo, impulsiona meu raciocínio e criatividade no âmbito profissional e tecnologico. Sinta-se à vontade para explorar meus projetos. 🚀✨
 
 ---
 
