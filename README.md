@@ -7,12 +7,20 @@ Sou um entusiasta do universo e suas curiosidades, com uma forte paixão por doc
 ---
 
 ### Linguagens de programação
-<div style="display: inline_block"><br>
-<img align="center" alt="Luisantz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   </div>
 
-   ---
 
+<img align="left" alt="C#" title="C#" height="30" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
+<img align="left" alt="Luisantz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+
+
+<Br/>
+<Br/>
+
+---  
+
+ 
 ### Entre em contato comigo
 <div> 
    <a href = "mailto:contatoluis.fnascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_"></a>
