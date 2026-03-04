@@ -11,7 +11,7 @@ Estudante de Ciência da Computação (3º semestre) na Universidade Salvador, c
 
 <img align="left" alt="C#" title="C#" height="30" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
-<img align="left" alt="Luisantz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
   
 
 
