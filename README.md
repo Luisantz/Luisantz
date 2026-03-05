@@ -1,8 +1,8 @@
 # Luis Fernando Nascimento
 
-**`Full-stack Developer`**
+**`Back-end Developer`**
 
-Estudante de Ciência da Computação (3º semestre) na Universidade Salvador, com forte interesse em desenvolvimento de software e engenharia de sistemas. Tenho experiência prática com C#, .NET, SQL Server, Git, Docker e AWS, adquirida por meio de projetos acadêmicos e bootcamps intensivos. Sou movido por curiosidade intelectual e gosto de integrar pensamento crítico e criatividade na resolução de problemas técnicos. Busco oportunidades para aplicar e expandir meus conhecimentos em ambientes colaborativos e inovadores. Sinta-se à vontade para explorar meus projetos. 🚀✨
+Estudante de Ciência da Computação (3º semestre) na Universidade Salvador, com forte interesse em desenvolvimento de software e engenharia de sistemas. Tenho experiência prática com C#, .NET, Java, SQL, Git, Docker e AWS, adquirida por meio de projetos acadêmicos e bootcamps intensivos. Sou movido por curiosidade intelectual e gosto de integrar pensamento crítico e criatividade na resolução de problemas técnicos. Busco oportunidades para aplicar e expandir meus conhecimentos em ambientes colaborativos e inovadores. Sinta-se à vontade para explorar meus projetos. 🚀✨
 
 ---
 
